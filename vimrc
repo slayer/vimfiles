@@ -218,6 +218,7 @@ set t_Co=256
 set hidden
 
 "dont load csapprox if we no gui support - silences an annoying warning
+let g:CSApprox_verbose_level = 0
 if !has("gui")
     let g:CSApprox_loaded = 1
 endif
