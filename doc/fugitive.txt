@@ -1,0 +1,1 @@
+../remote/vim-fugitive/doc/fugitive.txt

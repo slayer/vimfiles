@@ -16,3 +16,6 @@
 [submodule "remote/vim-cucumber"]
 	path = remote/vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
+[submodule "remote/vim-slim"]
+	path = remote/vim-slim
+	url = https://github.com/bbommarito/vim-slim.git
