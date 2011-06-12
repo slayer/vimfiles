@@ -19,3 +19,9 @@
 [submodule "remote/vim-slim"]
 	path = remote/vim-slim
 	url = https://github.com/bbommarito/vim-slim.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "remote/vim-pathogen"]
+	path = remote/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git

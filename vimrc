@@ -1,4 +1,6 @@
 colorscheme jellybeans
+call pathogen#runtime_append_all_bundles()
+
 "set nu
 set sts=2
 set sw=2
